@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Core/DNH.Core.Intergration/.vs/DNH.Infastructure.Intergration/v17
+/Core/DNH.Core.Intergration/bin/Debug/netstandard2.1
+/Core/DNH.Core.Intergration/obj
+/Core/Plugin.Abstraction/bin/Debug/netstandard2.1
+/Core/Plugin.Abstraction/obj
+/Core/Plugin.Core/bin/Debug/netstandard2.1
+/Core/Plugin.Core/obj
+/Modules/Demo.Module.Notification/bin/Debug/net8.0
+/Modules/Demo.Module.Notification/obj
+/Web/bin/Debug/net8.0
+/Web/obj
